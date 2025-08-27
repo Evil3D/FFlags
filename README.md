@@ -20,7 +20,7 @@
   "ChinaLicensingApp": "False",
   "LuaChatUseNewFriendsEndpointsV2": "0",
   "RestrictSales2": "False",
-  "Order66": "False",
+  "Order66": "False", // internal??
   "UpsellDirectToPackage": "false",
   "AdultConfirmationEnabledNew": "false",
   "PromptRobloxPurchaseEnabled": "False",
