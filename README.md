@@ -1,5 +1,5 @@
-## This is a repo with all pekora fflags from different versions.
-## ALSO there will be files aswell, they're labeled as such: FFlags_<first 5 characters of the version>_<version, so like 2020L>
+## This is a repo with *most* pekora fflags from different versions.
+### ALSO there are files aswell, they're labeled as such: FFlags_<first 5 characters of the version>_<version, so like 2020L>
 
 ## version-7e043f9d229d4b9a/2020L (first since this is the only ver which actually works for me) (Question: what's the L for?)
 ```json
