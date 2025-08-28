@@ -84,15 +84,77 @@
 
 ### FYI i didnt find any flags for 2018L or 2017L so.. maybe you can reuse some from the newer vers? but not recommended ofc.
 
-### at ze bottom here i'll put random flags i find (this will only include flags i haven't listed here or in the studio flags), this is in TOML format cause it doesn't become mad when i add comments. Also this will have comments.. i forgot what i wanted to say lmao
+### at ze bottom here i'll put random flags i find (this will include flags i *most* likely haven't listed anywhere else), this is in TOML format cause it doesn't become mad when i add comments. The values of the FFlags will be what i think is best.
 ```toml
 [Studio FFlags]
+# below fflags were found in pekora studio 2021 unless specified otherwise
 # Prevents conflicts when multiple CoreScript subsystems are trying to override the mouse cursor at the same time.
 UseCursorOverrideManager3 = true
 
+# the next most scripts are in corescripts and core stuff, so should work on the client.
 # so this is chinese console??? or idek but it says that if you're in china it's disabled so idk
 DeveloperConsoleEnabledForLuobu = true
 
 # OOO ADMIN STUFFS
 DebugFreeCameraForAdmins = true
+
+# Leaderstat server child-order tracker
+AnOrderOfLeaderstats = false
+
+# Loading screen stuffs idk
+LoadTheLoadingScreenEvenFaster = true
+LoadingScreenDontBlockOnPolicyService = false
+BackButtonWhileLoadingGoesBackToApp = true
+LoadingScreenShowBlankUntilPolicyServiceReturns = false
+
+# idek
+DebugEnableErrorStringTesting = false
+ShouldMuteUnlocalizedError = true
+
+# by default set to 2 hours, disables reconnecting after the failure of first try
+DisableReconnectAfterPotentialTimeout = true
+
+# Idk, for some/most the definition is the name/in the name
+ProximityPromptLocalization = true
+ProximityPromptNoButtonDrag = false
+ProximityPromptLiveChanges = true
+ProximityPromptMoreKeyCodes = true
+ProximityPromptMoreKeyCodes2 = true
+ProximityPromptsFadeIn = true
+ProximityPromptFixFade = true
+
+# still dont know 😭
+FixNotificationScriptError = true
+LocalizeVideoRecordAndScreenshotText = false
+
+# the name ig
+GameplayPausePausesInteraction = false
+
+# dialog fixes?
+FixDialogScriptNilChecks = true
+FixStuckDialogWhenUsingGamepad = true
+
+#??? what's the diff between invites??
+SafeGameInvite = true
+
+# i have no idea
+InspectMenuDeveloperMethodsPolicy = false
+
+# ye bro wtf
+EnableCoreScriptBacktraceReporting = true
+# we will report the same message + stack combination 5 times per minute, and ignore subsequent occurrences
+CoreScriptBacktraceRepeatedErrorRateLimiting = true
+# yk what imma js stop saying "idk", if i dont know it wont have a comment
+CoreScriptBacktraceReportUserAgent = false
+
+CancelButtonTouchEventOnMouseDragOff = false
+HandleChangeBoundActionNilValue = true
+
+# Server core stuff (just 3)
+RemoveInGameFollowingServer = false
+# FFlagPackInGameJoinDataEnabledClient must be turned on first
+PackInGameJoinDataEnabledServer = false
+FallbackLeaderstatOrdering = false
+
+PlayerListRoactInspector = true
 ```
