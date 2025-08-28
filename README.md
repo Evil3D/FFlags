@@ -168,3 +168,15 @@ BubbleChatUserSpecificSettings = false
 
 ShowInGameBlockingLuobu = false
 ```
+
+#### glitches
+```json
+{
+  "DFIntNewRunningBaseGravityReductionFactorHundredth": 1500,
+  "FFlagSimAdaptiveTimesteppingDefault2": true,
+  "DFFlagSimHumanoidTimestepModelUpdate": true,
+  "DFIntDebugSimPhysicsSteppingMethodOverride": 10000000,
+  "DFFlagAssemblyExtentsExpansionStudHundredth": -50,
+  "DFIntSimBroadPhasePairCountMax": 50
+}
+```
