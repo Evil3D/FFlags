@@ -84,8 +84,8 @@
 ### FYI i didnt find any flags for 2018L or 2017L so.. maybe you can reuse some from the newer vers? but not recommended ofc.
 
 ### at ze bottom here i'll put random flags i find`
-```json
-{
-  "UseCursorOverrideManager3": "true" // Prevents conflicts when multiple CoreScript subsystems are trying to override the mouse cursor at the same time.
-}
+```toml
+[Studio FFlags]
+# Prevents conflicts when multiple CoreScript subsystems are trying to override the mouse cursor at the same time.
+"UseCursorOverrideManager3": "true"
 ```
