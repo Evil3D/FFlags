@@ -169,7 +169,7 @@ BubbleChatUserSpecificSettings = false
 ShowInGameBlockingLuobu = false
 ```
 
-#### glitches
+#### glitches, NOT recommened to use, will most likely get you banned.
 ```json
 {
   "DFIntNewRunningBaseGravityReductionFactorHundredth": 1500,
@@ -177,6 +177,13 @@ ShowInGameBlockingLuobu = false
   "DFFlagSimHumanoidTimestepModelUpdate": true,
   "DFIntDebugSimPhysicsSteppingMethodOverride": 10000000,
   "DFFlagAssemblyExtentsExpansionStudHundredth": -50,
-  "DFIntSimBroadPhasePairCountMax": 50
+  "DFIntSimBroadPhasePairCountMax": 50,
+  "FFlagDebugSimDefaultPrimalSolver": true,
+  "DFIntDebugSimPrimalStiffness": 0,
+  "DFIntMaxAltitudePDStickHipHeightPercent": -1000,
+  "DFFlagDebugDisableTimeoutDisconnect": true,
+  "FFlagTopBarUseNewBadge": true,
+  "FStringTopBarBadgeLearnMoreLink": "https://google.com/",
+  "FStringVoiceBetaBadgeLearnMoreLink": "https://google.com/"
 }
 ```
