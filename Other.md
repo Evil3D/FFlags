@@ -15,8 +15,9 @@ The URLs above were found in Pekora Studio `2021/ExtraContent/scripts/CoreScript
 ## ☁️ APIS
 ```http
 POST https://abtesting.pekora.zip/v1/get-enrollments
+GET https://abtesting.pekora.zip/v1/enrollments
 ```
-idk what the body is im kinda dum, this is for getting the AB Test Groups
+idk what the body is im kinda dum, this is for getting the AB Test Groups, idk abt what method enrollments uses so im assuming GET
 
 ```http
 GET https://premiumfeatures.pekora.zip/v1/products?typeName=Subscription
