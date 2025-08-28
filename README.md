@@ -84,9 +84,15 @@
 
 ### FYI i didnt find any flags for 2018L or 2017L so.. maybe you can reuse some from the newer vers? but not recommended ofc.
 
-### at ze bottom here i'll put random flags i find (this will only include flags i haven't listed here or in the studio flags), this is in TOML format cause it doesn't become mad when i add comments.
+### at ze bottom here i'll put random flags i find (this will only include flags i haven't listed here or in the studio flags), this is in TOML format cause it doesn't become mad when i add comments. Also this will have comments.. i forgot what i wanted to say lmao
 ```toml
 [Studio FFlags]
 # Prevents conflicts when multiple CoreScript subsystems are trying to override the mouse cursor at the same time.
 UseCursorOverrideManager3 = true
+
+# so this is chinese console??? or idek but it says that if you're in china it's disabled so idk
+DeveloperConsoleEnabledForLuobu = true
+
+# OOO ADMIN STUFFS
+DebugFreeCameraForAdmins = true
 ```
