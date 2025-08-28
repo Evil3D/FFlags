@@ -158,6 +158,7 @@ FallbackLeaderstatOrdering = false
 
 PlayerListRoactInspector = true
 
+# Changes your graphics slider to max out at 21 instead of 10
 FixGraphicsQuality = true
 
 # OO
