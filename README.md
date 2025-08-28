@@ -157,4 +157,13 @@ PackInGameJoinDataEnabledServer = false
 FallbackLeaderstatOrdering = false
 
 PlayerListRoactInspector = true
+
+FixGraphicsQuality = true
+
+# OO
+NewEmotesInGame = true
+
+BubbleChatUserSpecificSettings = false
+
+ShowInGameBlockingLuobu = false
 ```
