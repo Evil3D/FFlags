@@ -2,83 +2,84 @@
 ### This is a repo with *most* pekora FFlags Found in different versions. Bonus at the bottom.
 ### ALSO there are files aswell, they're labeled as such: FFlags_<first 5 characters of the version>_<version, so like 2020L> Here's a bonus: [Studio FFlags](Studio%20FFlags.md)
 ### Here's another bonus: [Other Pekora Stuff](Other.md)
+### Turns out im kinda stupid.. so every fflag needs FFlag infront of it to actually register. also DFFlag(s) mean 'Developer FastFlag'
 
 ## version-7e043f9d229d4b9a/2020L (first since this is the only ver which actually works for me) (Question: what's the L for? Answer: Large)
 ```json
 {
-  "AppBridgeStartupController": "False",
-  "LuaUIBloxModalWindowAnchorPoint": "false",
-  "LuaAppUseUIBloxToasts2": "false",
-  "LuaPremiumCatalogTileFix": "false",
-  "PercentReportingNetworkProfileAfterStartup": "0",
-  "LuaAppNonFinalThumbnailMaxRetries": "0",
-  "LuaAppThumbnailsApiRetryTimeMultiplier": "0",
-  "EnableFriendFooterOnHomePageV369": "0",
-  "LuaAppConvertUniverseIdToStringV364": "False",
-  "LuaAppFixLightTheme": "false",
-  "AvatarEditorNewCatalogButton2": "0",
-  "UseDateTimeType3": "False",
-  "LuaFixEconomyCreatorStatsUrl": "false",
-  "ChinaLicensingApp": "False",
-  "LuaChatUseNewFriendsEndpointsV2": "0",
-  "RestrictSales2": "False",
-  "Order66": "False", // internal??
-  "UpsellDirectToPackage": "false",
-  "AdultConfirmationEnabledNew": "false",
-  "PromptRobloxPurchaseEnabled": "False",
-  "IGPPPremiumPriceV2": "false",
-  "AdultConfirmationEnabledV4": "false",
-  "HideThirdPartyPurchaseFailure": "false",
-  "LuaPremiumCatalogIGPP": "false",
-  "LuaUseThirdPartyPermissions": "false",
-  "DeveloperSubscriptionsEnabled": "False",
-  "DisableRobuxUpsell": "false",
-  "ProductPercentLocFix": "false",
-  "UseCursorOverrideManager": "False",
-  "UGCValidateMeshBounds": "false",
-  "UGCValidateHandleSize": "false",
-  "UGCExtraBannedNames": "false"
+  "FFlagAppBridgeStartupController": "False",
+  "FFlagLuaUIBloxModalWindowAnchorPoint": "false",
+  "FFlagLuaAppUseUIBloxToasts2": "false",
+  "FFlagLuaPremiumCatalogTileFix": "false",
+  "FIntPercentReportingNetworkProfileAfterStartup": "0",
+  "FIntLuaAppNonFinalThumbnailMaxRetries": "0",
+  "FIntLuaAppThumbnailsApiRetryTimeMultiplier": "0",
+  "FIntEnableFriendFooterOnHomePageV369": "0",
+  "FFlagLuaAppConvertUniverseIdToStringV364": "False",
+  "FFlagLuaAppFixLightTheme": "false",
+  "FIntAvatarEditorNewCatalogButton2": "0",
+  "FFlagUseDateTimeType3": "False",
+  "FFlagLuaFixEconomyCreatorStatsUrl": "false",
+  "FFlagChinaLicensingApp": "False",
+  "FIntLuaChatUseNewFriendsEndpointsV2": "0",
+  "FFlagRestrictSales2": "False",
+  "FFlagOrder66": "False",
+  "FFlagUpsellDirectToPackage": "false",
+  "FFlagAdultConfirmationEnabledNew": "false",
+  "FFlagPromptRobloxPurchaseEnabled": "False",
+  "FFlagIGPPPremiumPriceV2": "false",
+  "FFlagAdultConfirmationEnabledV4": "false",
+  "FFlagHideThirdPartyPurchaseFailure": "false",
+  "FFlagLuaPremiumCatalogIGPP": "false",
+  "FFlagLuaUseThirdPartyPermissions": "false",
+  "FFlagDeveloperSubscriptionsEnabled": "False",
+  "FFlagDisableRobuxUpsell": "false",
+  "FFlagProductPercentLocFix": "false",
+  "FFlagUseCursorOverrideManager": "False",
+  "FFlagUGCValidateMeshBounds": "false",
+  "FFlagUGCValidateHandleSize": "false",
+  "FFlagUGCExtraBannedNames": "false"
 }
 ```
 ## version-7e043f9d229d4b9a/2021M (I'm guessing the M stands for Mini)
 ```json
 {
-  "UIBloxAllowSystemBarToAcceptString": "false",
-  "UIBloxTooltipWidthUsesHeaderToo": "false",
-  "GamepadAnimatedCursor": "false",
-  "UIBloxEnableAlertCustomTitleFooterConfig": "false",
-  "AppBridgeStartupController": "False",
-  "LuaBacktraceReportFromDetails": "false",
-  "LuaAppUseNewUIBloxRoundedCorners": "false",
-  "UIBloxHideHorizontalCarouselScrollButtonFix": "false",
-  "UIBloxUseHeaderBarV2_1": "false",
-  "UIBloxSlidersFilterOldTouchInputs": "false",
-  "UIBloxEmptyStateControllerSupport": "false",
-  "UIBloxUseTileThumbnailV2_0": "false",
-  "UseUpdatedUIBloxCheckbox": "false",
-  "PercentReportingNetworkProfileAfterStartup": "0",
-  "AddDisplayNameToUserModel": "false",
-  "LuaAppNonFinalThumbnailMaxRetries": "0",
-  "LuaAppThumbnailsApiRetryTimeMultiplier": "0",
-  "EnableFriendFooterOnHomePageV369": "0",
-  "LuaAppConvertUniverseIdToStringV364": "False",
-  "LuaAppNewDividerColor": "false",
-  "AvatarEditorNewCatalogButton2": "0",
-  "UseDateTimeType3": "False",
-  "LuaFixEconomyCreatorStatsUrl": "false",
-  "LuaChatUseNewFriendsEndpointsV2": "0",
-  "LuaAppAddPresenceCounts": "false",
-  "LuaAppUseRoduxV3": "false",
-  "PolicyProviderFromMemStorageServiceFix": "false",
-  "FixAppPolicyDefaultUserId": "false",
-  "UseCursorOverrideManager3": "false",
-  "LuaEnableScreenTime": "false",
-  "LuaEnableScreenTimeSignalR": "false",
-  "UGCValidateMeshBounds": "false",
-  "UGCValidateHandleSize": "false",
-  "UGCExtraBannedNames": "false",
-  "UGCValidateContentIdStrict": "false",
-  "UGCValidateAttributes": "false"
+  "FFlagUIBloxAllowSystemBarToAcceptString": "false",
+  "FFlagUIBloxTooltipWidthUsesHeaderToo": "false",
+  "FFlagGamepadAnimatedCursor": "false",
+  "FFlagUIBloxEnableAlertCustomTitleFooterConfig": "false",
+  "FFlagAppBridgeStartupController": "False",
+  "FFlagLuaBacktraceReportFromDetails": "false",
+  "FFlagLuaAppUseNewUIBloxRoundedCorners": "false",
+  "FFlagUIBloxHideHorizontalCarouselScrollButtonFix": "false",
+  "FFlagUIBloxUseHeaderBarV2_1": "false",
+  "FFlagUIBloxSlidersFilterOldTouchInputs": "false",
+  "FFlagUIBloxEmptyStateControllerSupport": "false",
+  "FFlagUIBloxUseTileThumbnailV2_0": "false",
+  "FFlagUseUpdatedUIBloxCheckbox": "false",
+  "FIntPercentReportingNetworkProfileAfterStartup": "0",
+  "FFlagAddDisplayNameToUserModel": "false",
+  "FIntLuaAppNonFinalThumbnailMaxRetries": "0",
+  "FIntLuaAppThumbnailsApiRetryTimeMultiplier": "0",
+  "FIntEnableFriendFooterOnHomePageV369": "0",
+  "FFlagLuaAppConvertUniverseIdToStringV364": "False",
+  "FFlagLuaAppNewDividerColor": "false",
+  "FIntAvatarEditorNewCatalogButton2": "0",
+  "FFlagUseDateTimeType3": "False",
+  "FFlagLuaFixEconomyCreatorStatsUrl": "false",
+  "FIntLuaChatUseNewFriendsEndpointsV2": "0",
+  "FFlagLuaAppAddPresenceCounts": "false",
+  "FFlagLuaAppUseRoduxV3": "false",
+  "FFlagPolicyProviderFromMemStorageServiceFix": "false",
+  "FFlagFixAppPolicyDefaultUserId": "false",
+  "FFlagUseCursorOverrideManager3": "false",
+  "FFlagLuaEnableScreenTime": "false",
+  "FFlagLuaEnableScreenTimeSignalR": "false",
+  "FFlagUGCValidateMeshBounds": "false",
+  "FFlagUGCValidateHandleSize": "false",
+  "FFlagUGCExtraBannedNames": "false",
+  "FFlagUGCValidateContentIdStrict": "false",
+  "FFlagUGCValidateAttributes": "false"
 }
 ```
 
@@ -89,84 +90,84 @@
 [Studio FFlags]
 # below fflags were found in pekora studio 2021 unless specified otherwise
 # Prevents conflicts when multiple CoreScript subsystems are trying to override the mouse cursor at the same time.
-UseCursorOverrideManager3 = true
+FFlagUseCursorOverrideManager3 = true
 
 # the next most scripts are in corescripts and core stuff, so should work on the client.
 # so this is chinese console??? or idek but it says that if you're in china it's disabled so idk
-DeveloperConsoleEnabledForLuobu = true
+FFlagDeveloperConsoleEnabledForLuobu = true
 
 # OOO ADMIN STUFFS
-DebugFreeCameraForAdmins = true
+FFlagDebugFreeCameraForAdmins = true
 
 # Leaderstat server child-order tracker
-AnOrderOfLeaderstats = false
+FFlagAnOrderOfLeaderstats = false
 
 # Loading screen stuffs idk
-LoadTheLoadingScreenEvenFaster = true
-LoadingScreenDontBlockOnPolicyService = false
-BackButtonWhileLoadingGoesBackToApp = true
-LoadingScreenShowBlankUntilPolicyServiceReturns = false
+FFlagLoadTheLoadingScreenEvenFaster = true
+FFlagLoadingScreenDontBlockOnPolicyService = false
+FFlagBackButtonWhileLoadingGoesBackToApp = true
+FFlagLoadingScreenShowBlankUntilPolicyServiceReturns = false
 
 # idek
-DebugEnableErrorStringTesting = false
-ShouldMuteUnlocalizedError = true
+FFlagDebugEnableErrorStringTesting = false
+FFlagShouldMuteUnlocalizedError = true
 
 # by default set to 2 hours, disables reconnecting after the failure of first try
-DisableReconnectAfterPotentialTimeout = true
+FFlagDisableReconnectAfterPotentialTimeout = true
 
 # Idk, for some/most the definition is the name/in the name
-ProximityPromptLocalization = true
-ProximityPromptNoButtonDrag = false
-ProximityPromptLiveChanges = true
-ProximityPromptMoreKeyCodes = true
-ProximityPromptMoreKeyCodes2 = true
-ProximityPromptsFadeIn = true
-ProximityPromptFixFade = true
+FFlagProximityPromptLocalization = true
+FFlagProximityPromptNoButtonDrag = false
+FFlagProximityPromptLiveChanges = true
+FFlagProximityPromptMoreKeyCodes = true
+FFlagProximityPromptMoreKeyCodes2 = true
+FFlagProximityPromptsFadeIn = true
+FFlagProximityPromptFixFade = true
 
 # still dont know 😭
-FixNotificationScriptError = true
-LocalizeVideoRecordAndScreenshotText = false
+FFlagFixNotificationScriptError = true
+FFlagLocalizeVideoRecordAndScreenshotText = false
 
 # the name ig
-GameplayPausePausesInteraction = false
+FFlagGameplayPausePausesInteraction = false
 
 # dialog fixes?
-FixDialogScriptNilChecks = true
-FixStuckDialogWhenUsingGamepad = true
+FFlagFixDialogScriptNilChecks = true
+FFlagFixStuckDialogWhenUsingGamepad = true
 
 #??? what's the diff between invites??
-SafeGameInvite = true
+FFlagSafeGameInvite = true
 
 # i have no idea
-InspectMenuDeveloperMethodsPolicy = false
+FFlagInspectMenuDeveloperMethodsPolicy = false
 
 # ye bro wtf
-EnableCoreScriptBacktraceReporting = true
+FFlagEnableCoreScriptBacktraceReporting = true
 # we will report the same message + stack combination 5 times per minute, and ignore subsequent occurrences
-CoreScriptBacktraceRepeatedErrorRateLimiting = true
+FFlagCoreScriptBacktraceRepeatedErrorRateLimiting = true
 # yk what imma js stop saying "idk", if i dont know it wont have a comment
-CoreScriptBacktraceReportUserAgent = false
+FFlagCoreScriptBacktraceReportUserAgent = false
 
-CancelButtonTouchEventOnMouseDragOff = false
-HandleChangeBoundActionNilValue = true
+FFlagCancelButtonTouchEventOnMouseDragOff = false
+FFlagHandleChangeBoundActionNilValue = true
 
 # Server core stuff (just 3)
-RemoveInGameFollowingServer = false
+FFlagRemoveInGameFollowingServer = false
 # FFlagPackInGameJoinDataEnabledClient must be turned on first
-PackInGameJoinDataEnabledServer = false
-FallbackLeaderstatOrdering = false
+FFlagPackInGameJoinDataEnabledServer = false
+FFlagFallbackLeaderstatOrdering = false
 
-PlayerListRoactInspector = true
+FFlagPlayerListRoactInspector = true
 
 # Changes your graphics slider to max out at 21 instead of 10
-FixGraphicsQuality = true
+FFlagFixGraphicsQuality = true
 
 # OO
-NewEmotesInGame = true
+FFlagNewEmotesInGame = true
 
-BubbleChatUserSpecificSettings = false
+FFlagBubbleChatUserSpecificSettings = false
 
-ShowInGameBlockingLuobu = false
+FFlagShowInGameBlockingLuobu = false
 ```
 
 #### glitches, NOT recommened to use, will most likely get you banned.
