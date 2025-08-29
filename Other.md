@@ -2,15 +2,17 @@
 ### Also there's just way too much apis imo so.. i'll include the ones which look interesting to me
 
 ## 🌐 URLS
-[Api](https://api.pekora.zip/auth/home)
-[Apis](https://apis.pekora.zip/auth/home)
-[ABTesting](https://abtesting.pekora.zip/auth/home)
-[Catalog](https://catalog.pekora.zip/auth/home)
-[Economy](https://economy.pekora.zip/auth/home)
-[PremiumFeatures](https://premiumfeatures.pekora.zip/auth/home)
+[Api](https://api.pekora.zip/auth/home)  
+[Apis](https://apis.pekora.zip/auth/home)  
+[ABTesting](https://abtesting.pekora.zip/auth/home)  
+[Catalog](https://catalog.pekora.zip/auth/home)  
+[Economy](https://economy.pekora.zip/auth/home)  
+[PremiumFeatures](https://premiumfeatures.pekora.zip/auth/home)  
 [EconomyCreatorStats](https://economycreatorstats.pekora.zip/auth/home)  
 The URLs above were found in Pekora Studio `2021/ExtraContent/scripts/CoreScripts/Modules/PurchasePrompt/Services/Network.lua`
-[Devforum](https://devforum.pekora.zip/auth/home)
+[Devforum](https://devforum.pekora.zip/auth/home)  
+[Client Telemetry](https://client-telemetry.pekora.zip/auth/home)  
+[Analytics SubDomain?](https://ecsv2.pekora.zip/auth/home)
 
 ## ☁️ APIS
 ```http
