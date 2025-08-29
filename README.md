@@ -114,6 +114,9 @@ FFlagShouldMuteUnlocalizedError = true
 
 # by default set to 2 hours, disables reconnecting after the failure of first try
 FFlagDisableReconnectAfterPotentialTimeout = true
+FIntPotentialClientTimeoutSeconds = 7200
+FFlagReconnectDisabled = false # when on, disables reconnecting on all errors
+FStringReconnectDisabledReason = "We're sorry, Roblox is temporarily unavailable.  Please try again later." # or whatever u want to set it to
 
 # Idk, for some/most the definition is the name/in the name
 FFlagProximityPromptLocalization = true
@@ -168,9 +171,14 @@ FFlagNewEmotesInGame = true
 FFlagBubbleChatUserSpecificSettings = false
 
 FFlagShowInGameBlockingLuobu = false
+
+FFlagEnableCaptureMode = true
+FStringEnableCaptureModePlaceIds = "1234"
+
+
 ```
 
-#### glitches, NOT recommened to use, will most likely get you banned.
+#### *Glitches*, NOT recommened to use, likely get you banned.
 ```json
 {
   "DFIntNewRunningBaseGravityReductionFactorHundredth": 1500,
