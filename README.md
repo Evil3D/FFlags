@@ -1,4 +1,5 @@
-# Use [PekoStrap](https://github.com/WindowsMI/pekoStrap) to be able to apply these FFlags to your client.
+# RIP [Pekora](https://pekora.zip) These FFlags most likely will/should work on normal roblox.
+### Use [PekoStrap](https://github.com/WindowsMI/pekoStrap) to be able to apply these FFlags to your client.
 ### This is a repo with *most* pekora FFlags Found in different versions. Bonus at the bottom.
 ### ALSO there are files aswell, they're labeled as such: FFlags_<first 5 characters of the version>_<version, so like 2020L> Here's a bonus: [Studio FFlags](Studio%20FFlags.md)
 ### Here's another bonus: [Other Pekora Stuff](Other.md) Bro... so uh i got a list of a little over 4 THOUSAND Flags.. yea.. [insane right](InsanityFlags.md)
