@@ -6,8 +6,8 @@
 ### Turns out im kinda stupid.. so every fflag needs FFlag infront of it to actually register. also DFFlag(s) mean 'Developer FastFlag'
 ### For the ESC:R people: i have no idea which fflags work for ESC:R, gl
 
-## version-7e043f9d229d4b9a/[2020L](FFlags_7e043_2020L.json) (first since this is the only ver which actually works for me) (Question: what's the L for? Answer: Large)
-## version-7e043f9d229d4b9a/[2021M](FFlags_7e043_2021M.json) (I'm guessing the M stands for Mini)
+### version-7e043f9d229d4b9a/[2020L](FFlags_7e043_2020L.json) (first since this is the only ver which actually works for me) (Question: what's the L for? Answer: Large)
+### version-7e043f9d229d4b9a/[2021M](FFlags_7e043_2021M.json) (I'm guessing the M stands for Mini)
 
 ### FYI i didnt find any flags for 2018L or 2017L so.. maybe you can reuse some from the newer vers? but not recommended ofc.
 
