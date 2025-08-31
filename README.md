@@ -2,88 +2,12 @@
 ### Use [PekoStrap](https://github.com/WindowsMI/pekoStrap) to be able to apply these FFlags to your client.
 ### This is a repo with *most* pekora FFlags Found in different versions. Bonus at the bottom.
 ### ALSO there are files aswell, they're labeled as such: FFlags_<first 5 characters of the version>_<version, so like 2020L> Here's a bonus: [Studio FFlags](Studio%20FFlags.md)
-### Here's another bonus: [Other Pekora Stuff](Other.md) Bro... so uh i got a list of a little over 4 THOUSAND Flags.. yea.. [insane right](InsanityFlags.md)
+### Here's another bonus: [Other Pekora Stuff](Other.md) Bro... so uh i got a list of a little over 4 THOUSAND Flags.. yea.. [insane right](InsanityFlags.md)... so.. i merged mine and [Reprovision](https://github.com/reprovision)'s list of flags to get [this](tryRunningAllTheseAtOnceLMAO.md)
 ### Turns out im kinda stupid.. so every fflag needs FFlag infront of it to actually register. also DFFlag(s) mean 'Developer FastFlag'
 ### For the ESC:R people: i have no idea which fflags work for ESC:R, gl
 
-## version-7e043f9d229d4b9a/2020L (first since this is the only ver which actually works for me) (Question: what's the L for? Answer: Large)
-```json
-{
-  "FFlagAppBridgeStartupController": "False",
-  "FFlagLuaUIBloxModalWindowAnchorPoint": "false",
-  "FFlagLuaAppUseUIBloxToasts2": "false",
-  "FFlagLuaPremiumCatalogTileFix": "false",
-  "FIntPercentReportingNetworkProfileAfterStartup": "0",
-  "FIntLuaAppNonFinalThumbnailMaxRetries": "0",
-  "FIntLuaAppThumbnailsApiRetryTimeMultiplier": "0",
-  "FIntEnableFriendFooterOnHomePageV369": "0",
-  "FFlagLuaAppConvertUniverseIdToStringV364": "False",
-  "FFlagLuaAppFixLightTheme": "false",
-  "FIntAvatarEditorNewCatalogButton2": "0",
-  "FFlagUseDateTimeType3": "False",
-  "FFlagLuaFixEconomyCreatorStatsUrl": "false",
-  "FFlagChinaLicensingApp": "False",
-  "FIntLuaChatUseNewFriendsEndpointsV2": "0",
-  "FFlagRestrictSales2": "False",
-  "FFlagOrder66": "False",
-  "FFlagUpsellDirectToPackage": "false",
-  "FFlagAdultConfirmationEnabledNew": "false",
-  "FFlagPromptRobloxPurchaseEnabled": "False",
-  "FFlagIGPPPremiumPriceV2": "false",
-  "FFlagAdultConfirmationEnabledV4": "false",
-  "FFlagHideThirdPartyPurchaseFailure": "false",
-  "FFlagLuaPremiumCatalogIGPP": "false",
-  "FFlagLuaUseThirdPartyPermissions": "false",
-  "FFlagDeveloperSubscriptionsEnabled": "False",
-  "FFlagDisableRobuxUpsell": "false",
-  "FFlagProductPercentLocFix": "false",
-  "FFlagUseCursorOverrideManager": "False",
-  "FFlagUGCValidateMeshBounds": "false",
-  "FFlagUGCValidateHandleSize": "false",
-  "FFlagUGCExtraBannedNames": "false"
-}
-```
-## version-7e043f9d229d4b9a/2021M (I'm guessing the M stands for Mini)
-```json
-{
-  "FFlagUIBloxAllowSystemBarToAcceptString": "false",
-  "FFlagUIBloxTooltipWidthUsesHeaderToo": "false",
-  "FFlagGamepadAnimatedCursor": "false",
-  "FFlagUIBloxEnableAlertCustomTitleFooterConfig": "false",
-  "FFlagAppBridgeStartupController": "False",
-  "FFlagLuaBacktraceReportFromDetails": "false",
-  "FFlagLuaAppUseNewUIBloxRoundedCorners": "false",
-  "FFlagUIBloxHideHorizontalCarouselScrollButtonFix": "false",
-  "FFlagUIBloxUseHeaderBarV2_1": "false",
-  "FFlagUIBloxSlidersFilterOldTouchInputs": "false",
-  "FFlagUIBloxEmptyStateControllerSupport": "false",
-  "FFlagUIBloxUseTileThumbnailV2_0": "false",
-  "FFlagUseUpdatedUIBloxCheckbox": "false",
-  "FIntPercentReportingNetworkProfileAfterStartup": "0",
-  "FFlagAddDisplayNameToUserModel": "false",
-  "FIntLuaAppNonFinalThumbnailMaxRetries": "0",
-  "FIntLuaAppThumbnailsApiRetryTimeMultiplier": "0",
-  "FIntEnableFriendFooterOnHomePageV369": "0",
-  "FFlagLuaAppConvertUniverseIdToStringV364": "False",
-  "FFlagLuaAppNewDividerColor": "false",
-  "FIntAvatarEditorNewCatalogButton2": "0",
-  "FFlagUseDateTimeType3": "False",
-  "FFlagLuaFixEconomyCreatorStatsUrl": "false",
-  "FIntLuaChatUseNewFriendsEndpointsV2": "0",
-  "FFlagLuaAppAddPresenceCounts": "false",
-  "FFlagLuaAppUseRoduxV3": "false",
-  "FFlagPolicyProviderFromMemStorageServiceFix": "false",
-  "FFlagFixAppPolicyDefaultUserId": "false",
-  "FFlagUseCursorOverrideManager3": "false",
-  "FFlagLuaEnableScreenTime": "false",
-  "FFlagLuaEnableScreenTimeSignalR": "false",
-  "FFlagUGCValidateMeshBounds": "false",
-  "FFlagUGCValidateHandleSize": "false",
-  "FFlagUGCExtraBannedNames": "false",
-  "FFlagUGCValidateContentIdStrict": "false",
-  "FFlagUGCValidateAttributes": "false"
-}
-```
+## version-7e043f9d229d4b9a/[2020L](FFlags_7e043_2020L.json) (first since this is the only ver which actually works for me) (Question: what's the L for? Answer: Large)
+## version-7e043f9d229d4b9a/[2021M](FFlags_7e043_2021M.json) (I'm guessing the M stands for Mini)
 
 ### FYI i didnt find any flags for 2018L or 2017L so.. maybe you can reuse some from the newer vers? but not recommended ofc.
 
