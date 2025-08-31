@@ -1,4 +1,5 @@
 # Do what the title said no?
+### 6113 Flags, this list has every single flag type, if you have flags I'm missing or find an error, make an [issue](https://github.com/Evil3D/FFlags/issues) or message me on [discord](https://discord.com/users/1399643368321056793)
 
 ```json
 {
