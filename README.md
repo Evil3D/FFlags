@@ -1,4 +1,4 @@
-# RIP [Pekora](https://pekora.zip) These FFlags most likely will/should work on normal roblox.
+# RIP [Pekora](https://pekora.zip) These FFlags most likely will/should work on normal roblox, and or on other revivals such as [ECS:R](https://ecsr.io/auth/home)
 ### Use [PekoStrap](https://github.com/WindowsMI/pekoStrap) to be able to apply these FFlags to your client.
 ### This is a repo with *most* pekora FFlags Found in different versions. Bonus at the bottom.
 ### ALSO there are files aswell, they're labeled as such: FFlags_<first 5 characters of the version>_<version, so like 2020L> Here's a bonus: [Studio FFlags](Studio%20FFlags.md)
