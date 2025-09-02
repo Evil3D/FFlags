@@ -1,5 +1,5 @@
 # Do what the title said no?
-### 6399 Flags, this list has every single flag and flag type i could find, if you have flags I'm missing or find an error, make an [issue](https://github.com/Evil3D/FFlags/issues) or message me on [discord](https://discord.com/users/1399643368321056793)
+### 6409 Flags, this list has every single flag and flag type i could find, if you have flags I'm missing or find an error, make an [issue](https://github.com/Evil3D/FFlags/issues) or message me on [discord](https://discord.com/users/1399643368321056793)
 ### Fun fact: The preview for this took ~30 secs to load
 
 ```json
@@ -430,6 +430,7 @@
   "FFlagDebugSendPhysicsFBUpdateRatePlaceSpecific": false,
   "FFlagDebugShowRccLoadErrors": false,
   "FFlagDebugShowTextBounds": false,
+  "FFlagDebugSimDefaultPrimalSolver": true,
   "FFlagDebugSimTurnOnAdaptivePhysicsSteppingWithFlag": false,
   "FFlagDebugSmallTexturePack": false,
   "FFlagDebugStartMicroProfilerWebServer": false,
@@ -2069,6 +2070,7 @@
   "FFlagSimACPSkipMidPhaseForSinglePartToSinglePartAssemblies": true,
   "FFlagSimAccCollisionPipelineEnabled": false,
   "FFlagSimAccCollisionPipelineEnabled4": false,
+  "FFlagSimAdaptiveTimesteppingDefault2": false,
   "FFlagSimAssembleInWorld": true,
   "FFlagSimBroadphaseExemptParts": false,
   "FFlagSimBruteForceAllParameter": false,
@@ -2771,6 +2773,7 @@
   "FFlagTopBarCloseContextMenuWhenHotkeysUsed": true,
   "FFlagTopBarHideSiteBanner": true,
   "FFlagTopBarSignalizeHealthBar": false,
+  "FFlagTopBarUseNewBadge": true,
   "FFlagTouchEventSameSHCellBugFixEnabled": true,
   "FFlagTouchscreenSupport": false,
   "FFlagTrackCurlTimeProfile": true,
@@ -3921,6 +3924,7 @@
   "FStringTencentAuthPath": "wechatauth",
   "FStringTerrainHeightmapImporterBetaUrl": "https://devforum.pekora.zip/t/heightmaps-go-to-new-altitudes/1025033",
   "FStringTexturePacksBetaFeatureUrl": "https://devforum.pekora.zip/t/surfaceappearance-studio-beta/663449",
+  "FStringTopBarBadgeLearnMoreLink": "https://google.com/",
   "FStringUGCValidationMaxAnimationBounds": "25",
   "FStringUGCValidationMaxAnimationDeltas": "1.5",
   "FStringUGCValidationMaxAnimationLength": "10",
@@ -3928,6 +3932,7 @@
   "FStringUGCValidationVisibilityDistributionAspect": "2.0",
   "FStringUIStrokeBetaFeatureUrl": "https://devforum.pekora.zip/t/uistroke-studio-beta/1116289",
   "FStringVirtualCursorBetaFeatureUrl": "https://devforum.pekora.zip/t/gamepad-virtual-cursor-studio-beta/1130918",
+  "FStringVoiceBetaBadgeLearnMoreLink": "https://google.com/",
   "FStringVoiceExposureIXPLayerName": "Voice.Exposure",
   "FStringVoiceUserAgencyIXPLayerName": "",
   "FStringWhitelistVerifiedUserId": "3119089537",
@@ -4827,6 +4832,7 @@
   "DFFlagSimFixWeldConstraintEnable1": false,
   "DFFlagSimFixWeldConstraintPartScripting": true,
   "DFFlagSimHumanoidMoveApiFix": true,
+  "DFFlagSimHumanoidTimestepModelUpdate": false,
   "DFFlagSimInterpolationThrottllingDefaultIsEnabled": false,
   "DFFlagSimJointStepUsesAnimationLod": false,
   "DFFlagSimLDLPGSStatsBufferBreakdownReporting": true,
@@ -5089,6 +5095,7 @@
   "DFFlagWorldModelPlayerAddedCrash": true,
   "DFFlagWorldTrackJointInsertSplit": false,
   "DFFlagXboxDisableTextChat": true,
+  "DFFlagAssemblyExtentsExpansionStudHundredth": 0,
   "DFIntAbuseReportScreenshotPercentage": 50,
   "DFIntAbuseReportV2Percentage": 1,
   "DFIntAccErrorDrainedThousandth": 100,
@@ -5320,6 +5327,8 @@
   "DFIntDebugSendDistInSteps": 5,
   "DFIntDebugSendMomentInSteps": 6,
   "DFIntDebugSimForceWorldStepCount": 0,
+  "DFIntDebugSimPhysicsSteppingMethodOverride": 0,
+  "DFIntDebugSimPrimalStiffness": 0,
   "DFIntDebugVideoSimulatedAudioCodecLoadMs": 0,
   "DFIntDebugVideoSimulatedVideoCodecLoadMs": 0,
   "DFIntDefaultBalanceD": 100,
@@ -5957,6 +5966,7 @@
   "DFIntSimACPParallelProcessMidPhaseBatchCount": 1,
   "DFIntSimACPParallelProcessMidPhaseSerialCutoff": 15,
   "DFIntSimBlockLargeLocalToolWeldManipulationsThreshold": 10000,
+  "DFIntSimBroadPhasePairCountMax": 1000,
   "DFIntSimDefaultTimestepMultiplier": 1,
   "DFIntSimSolverBatchBufferMaxAge": 2000,
   "DFIntSimSolverLargeWorkloadThreshold": 200,
