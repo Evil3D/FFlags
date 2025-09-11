@@ -5,7 +5,7 @@
 ### ALSO there are files aswell, they're labeled as such: FFlags_<first 5 characters of the version>_<version, so like 2020L> Here's a bonus: [Studio FFlags](Studio%20FFlags.md)
 ### Here's another bonus: [Other Pekora Stuff](Other.md) Bro... so uh i got a list of a little over 4 THOUSAND Flags.. yea.. [insane right](InsanityFlags.md)... so.. i merged mine and [Reprovision](https://github.com/reprovision)'s list of flags to get [this](tryRunningAllTheseAtOnceLMAO.md)
 ### Turns out im kinda stupid.. so every fflag needs FFlag infront of it to actually register. also DFFlag(s) mean 'Developer FastFlag'
-### For the ESC:R people: ECS:R has it's own fflags and idk where they're stored, probably in the dlls or the engine files. Nevermind, idk where this is actually located but i found some fflags in the downloads from the ecsr client.
+### For the ESC:R people: ECS:R has it's own fflags and idk where they're stored, probably in the dlls or the engine files. Nevermind, idk where this is actually located but i found some fflags in the downloads from the ecsr client. [Here](ECSR.md)
 
 ### version-7e043f9d229d4b9a/[2020L](FFlags_7e043_2020L.json) (first since this is the only ver which actually works for me) (Question: what's the L for? Answer: Large)
 ### version-7e043f9d229d4b9a/[2021M](FFlags_7e043_2021M.json) (I'm guessing the M stands for Mini)
