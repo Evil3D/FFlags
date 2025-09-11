@@ -1,11 +1,11 @@
-# RIP [Pekora](https://pekora.zip) These FFlags most likely will/should work on normal roblox, and or on other revivals such as [ECS:R](https://ecsr.io/auth/home)
+# This is/was made for Pekora, now [Korone](https://pekora.zip), should/will work on normal roblox and other revivals such as [ECS:R](https://ecsr.io).
 ## After finding [Roblox FFlag Tracker](https://github.com/MaximumADHD/Roblox-FFlag-Tracker) i kinda wanna quit on this 😭
-### Use [PekoStrap](https://github.com/WindowsMI/pekoStrap) to be able to apply these FFlags to your client.
+### Use [KoroneStrap](https://github.com/WindowsMI/koroneStrap) to be able to apply these FFlags to your client.
 ### This is a repo with *most* pekora FFlags Found in different versions. Bonus at the bottom.
 ### ALSO there are files aswell, they're labeled as such: FFlags_<first 5 characters of the version>_<version, so like 2020L> Here's a bonus: [Studio FFlags](Studio%20FFlags.md)
 ### Here's another bonus: [Other Pekora Stuff](Other.md) Bro... so uh i got a list of a little over 4 THOUSAND Flags.. yea.. [insane right](InsanityFlags.md)... so.. i merged mine and [Reprovision](https://github.com/reprovision)'s list of flags to get [this](tryRunningAllTheseAtOnceLMAO.md)
 ### Turns out im kinda stupid.. so every fflag needs FFlag infront of it to actually register. also DFFlag(s) mean 'Developer FastFlag'
-### For the ESC:R people: i have no idea which fflags work for ESC:R, gl
+### For the ESC:R people: ECS:R has it's own fflags and idk where they're stored, probably in the dlls or the engine files.
 
 ### version-7e043f9d229d4b9a/[2020L](FFlags_7e043_2020L.json) (first since this is the only ver which actually works for me) (Question: what's the L for? Answer: Large)
 ### version-7e043f9d229d4b9a/[2021M](FFlags_7e043_2021M.json) (I'm guessing the M stands for Mini)
