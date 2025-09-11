@@ -15,6 +15,7 @@
   "RestrictSales": false,
   "NewInGameDevConsole": false,
   "ConsoleCodeExecutionEnabled": false,
-  "UseCanManageApiToDetermineConsoleAccess": false
+  "UseCanManageApiToDetermineConsoleAccess": false,
+  "AllowHideHudShortcut": false
 }
 ```
